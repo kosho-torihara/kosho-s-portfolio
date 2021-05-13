@@ -42,7 +42,7 @@ a {
 .header {
   height: 675px;
   position: relative;
-  background: url(../image/paper-3309829_1920.jpg);
+  background: url(https://kosho-torihara.github.io/kosho-s-portfolio/paper-3309829_1920.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -216,7 +216,7 @@ h1 {
 .skills {
   padding-top: 80px;
   padding-bottom: 80px;
-  background: url(../image/coding-924920_1920.jpg);
+  background: url(https://kosho-torihara.github.io/kosho-s-portfolio/coding-924920_1920.jpg);
   background-position: center;
   background-size: cover;
 }
